@@ -1,0 +1,7 @@
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.exe.config
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.exe
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.pdb
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.exe
+C:\Users\8054703\OneDrive\.net\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.pdb

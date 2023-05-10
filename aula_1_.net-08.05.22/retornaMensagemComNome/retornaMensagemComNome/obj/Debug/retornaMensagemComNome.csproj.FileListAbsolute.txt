@@ -1,0 +1,7 @@
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\obj\Debug\retornaMensagemComNome.csproj.AssemblyReference.cache
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\obj\Debug\retornaMensagemComNome.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\bin\Debug\retornaMensagemComNome.exe.config
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\bin\Debug\retornaMensagemComNome.exe
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\bin\Debug\retornaMensagemComNome.pdb
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\obj\Debug\retornaMensagemComNome.exe
+C:\Users\8054703\OneDrive\.net\retornaMensagemComNome\retornaMensagemComNome\obj\Debug\retornaMensagemComNome.pdb

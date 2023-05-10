@@ -1,0 +1,6 @@
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\obj\Debug\grausToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\bin\Debug\grausToFahrenheit.exe.config
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\bin\Debug\grausToFahrenheit.exe
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\bin\Debug\grausToFahrenheit.pdb
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\obj\Debug\grausToFahrenheit.exe
+C:\Users\8054703\OneDrive\.net\grausToFahrenheit\grausToFahrenheit\obj\Debug\grausToFahrenheit.pdb

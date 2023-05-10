@@ -1,0 +1,7 @@
+C:\Users\8054703\OneDrive\.net\imc\imc\bin\Debug\imc.exe.config
+C:\Users\8054703\OneDrive\.net\imc\imc\bin\Debug\imc.exe
+C:\Users\8054703\OneDrive\.net\imc\imc\bin\Debug\imc.pdb
+C:\Users\8054703\OneDrive\.net\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\8054703\OneDrive\.net\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\.net\imc\imc\obj\Debug\imc.exe
+C:\Users\8054703\OneDrive\.net\imc\imc\obj\Debug\imc.pdb
