@@ -1,0 +1,7 @@
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\bin\Debug\calculaLitrosDistancia.exe.config
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\bin\Debug\calculaLitrosDistancia.exe
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\bin\Debug\calculaLitrosDistancia.pdb
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\obj\Debug\calculaLitrosDistancia.csproj.AssemblyReference.cache
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\obj\Debug\calculaLitrosDistancia.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\obj\Debug\calculaLitrosDistancia.exe
+C:\Users\8054703\OneDrive\.net\calculaLitrosDistancia\calculaLitrosDistancia\obj\Debug\calculaLitrosDistancia.pdb
