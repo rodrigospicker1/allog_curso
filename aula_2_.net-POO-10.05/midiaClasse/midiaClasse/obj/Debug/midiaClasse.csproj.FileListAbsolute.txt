@@ -1,0 +1,7 @@
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\bin\Debug\midiaClasse.exe.config
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\bin\Debug\midiaClasse.exe
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\bin\Debug\midiaClasse.pdb
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\obj\Debug\midiaClasse.csproj.AssemblyReference.cache
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\obj\Debug\midiaClasse.csproj.CoreCompileInputs.cache
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\obj\Debug\midiaClasse.exe
+C:\Users\8054703\OneDrive\aula_2_.net-POO-10.05\midiaClasse\midiaClasse\obj\Debug\midiaClasse.pdb
