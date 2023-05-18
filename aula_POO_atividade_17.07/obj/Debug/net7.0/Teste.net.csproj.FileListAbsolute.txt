@@ -1,0 +1,15 @@
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\bin\Debug\net7.0\Teste.net.exe
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\bin\Debug\net7.0\Teste.net.deps.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\bin\Debug\net7.0\Teste.net.runtimeconfig.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\bin\Debug\net7.0\Teste.net.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\bin\Debug\net7.0\Teste.net.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.csproj.AssemblyReference.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.AssemblyInfoInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.AssemblyInfo.cs
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\refint\Teste.net.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\Teste.net.genruntimeconfig.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\Teste.net\obj\Debug\net7.0\ref\Teste.net.dll
