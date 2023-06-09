@@ -1,0 +1,15 @@
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\bin\Debug\net7.0\FirstOrDefault.exe
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\bin\Debug\net7.0\FirstOrDefault.deps.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\bin\Debug\net7.0\FirstOrDefault.runtimeconfig.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\bin\Debug\net7.0\FirstOrDefault.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\bin\Debug\net7.0\FirstOrDefault.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.csproj.AssemblyReference.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.AssemblyInfoInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.AssemblyInfo.cs
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\refint\FirstOrDefault.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\FirstOrDefault.genruntimeconfig.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula3_design_pattern_projects\aula_3_2\FirstOrDefault\obj\Debug\net7.0\ref\FirstOrDefault.dll

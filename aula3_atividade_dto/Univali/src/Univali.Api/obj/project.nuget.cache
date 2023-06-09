@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpvmxK2k0UzNk6GH3pDydp8LpO6Q5HF1pz8c8gY8siPCrutZIVoLbso0w/dtDiWjwmpt1Yi4ybtPw8GhqJacRw==",
+  "success": true,
+  "projectFilePath": "/Users/rafaelpavao/Documents/WS/<ALLOG>/jackson01/Univali/src/Univali.Api/Univali.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafaelpavao/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/rafaelpavao/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
