@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdKC8Seb0cjMYiHk/wHb/DDwqqEAJIQYPUCCmVc5qf2fgBOim7EL/TZ00je2U62L+Pdz0QifsfCNRdyFsoMwlw==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/ExemplosCurso/JWT/JWT.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.identitymodel.abstractions/6.30.0/microsoft.identitymodel.abstractions.6.30.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.30.0/microsoft.identitymodel.jsonwebtokens.6.30.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.identitymodel.logging/6.30.0/microsoft.identitymodel.logging.6.30.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.identitymodel.tokens/6.30.0/microsoft.identitymodel.tokens.6.30.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

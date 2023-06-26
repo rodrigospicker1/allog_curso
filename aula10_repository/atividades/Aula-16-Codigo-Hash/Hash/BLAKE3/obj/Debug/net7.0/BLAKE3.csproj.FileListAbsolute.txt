@@ -1,0 +1,15 @@
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\bin\Debug\net7.0\BLAKE3.exe
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\bin\Debug\net7.0\BLAKE3.deps.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\bin\Debug\net7.0\BLAKE3.runtimeconfig.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\bin\Debug\net7.0\BLAKE3.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\bin\Debug\net7.0\BLAKE3.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.csproj.AssemblyReference.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.AssemblyInfoInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.AssemblyInfo.cs
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\refint\BLAKE3.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\BLAKE3.genruntimeconfig.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\allog_curso-main\allog_curso-main\allog_curso\aula10_repository\atividades\Aula-16-Codigo-Hash\hash\blake3\obj\Debug\net7.0\ref\BLAKE3.dll

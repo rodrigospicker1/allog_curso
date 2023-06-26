@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXJXPNKSnk86V+BT2GQGWKRK8vGBehgXwUHsWMxiW/XN1yskUaAu8uK+jWeDnl9WgRs1KPLONU0I71FfEhtYtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sysadmin\\Desktop\\Projetos\\.NET\\allog_curso-main\\allog_curso-main\\allog_curso\\aula10_repository\\atividades\\Aula-16-Codigo-Hash\\hash\\sha\\SHA3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sysadmin\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

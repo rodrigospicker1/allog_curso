@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZ7PJxZGa7CvjIE7AKProK1/nH0ku9/hXXOfWGdbxdV+wEXieNDVuh4XF5I+2kLs6m45rPVrVyF0OK6BV6/5YQ==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/ResistenciaColisao/ResistenciaColisao.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/blake3/0.5.1/blake3.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

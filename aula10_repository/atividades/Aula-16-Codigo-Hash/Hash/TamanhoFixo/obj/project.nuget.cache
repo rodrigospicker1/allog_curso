@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYjL3ez6SsrvgNBErIQ6Yy7jqRFwuP+msv7OywProkI0KcP/I4VzKunCbW0XITmQE7zfBh/JgccM5QRUZMm7MA==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/TamanhoFixo/TamanhoFixo.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/blake3/0.5.1/blake3.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

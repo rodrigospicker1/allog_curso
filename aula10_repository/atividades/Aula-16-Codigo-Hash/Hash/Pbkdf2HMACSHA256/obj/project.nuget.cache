@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8skFcCAHbS2BsokTU0OrfJbmk7SGz/zgDYpf5WnV0Xp4YVXXEIl9Hn4jSpE9V+KjeAIafonuULnnNd7WC3j+g==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/Pbkdf2HMACSHA256/Pbkdf2HMACSHA256.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.5/microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.5/microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

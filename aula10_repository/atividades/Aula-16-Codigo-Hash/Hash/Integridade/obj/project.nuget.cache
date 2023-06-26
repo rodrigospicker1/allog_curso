@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIxOBKJrAy9Gzn+WMvRJCAOwtAYI0bKOlhftfUqIZdj7t576VoU0zbFd0A/3AMfOhu3elSIMsm46M1lNnEsLxQ==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/Integridade/Integridade.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/blake3/0.5.1/blake3.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

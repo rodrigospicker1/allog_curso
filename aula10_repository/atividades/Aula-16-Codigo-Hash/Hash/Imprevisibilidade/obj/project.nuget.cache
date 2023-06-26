@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJ9AYq8/3tF1PeNITz0nSco1F/3J+GS+9wVhR9r6BiPz91KqLRr96Mz7v4KNTDJb6qvkabJtlWia6UMxWPBtZw==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/Imprevisibilidade/Imprevisibilidade.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/blake3/0.5.1/blake3.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

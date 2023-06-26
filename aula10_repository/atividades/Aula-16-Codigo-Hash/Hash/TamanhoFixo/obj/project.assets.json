@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Blake3/0.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Blake3.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Blake3.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libblake3_dotnet.so": {
+            "assetType": "native",
+            "rid": "linux-arm"
+          },
+          "runtimes/linux-arm64/native/libblake3_dotnet.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-x64/native/libblake3_dotnet.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-arm64/native/libblake3_dotnet.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-x64/native/libblake3_dotnet.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-arm64/native/blake3_dotnet.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-x64/native/blake3_dotnet.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/blake3_dotnet.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blake3/0.5.1": {
+      "sha512": "T65cGqYlCTwCEgOdggbtqpHcNSlbbymK2ugVbm04JrlrUHOQl5k1CZ3UujpUCATYcLaL22Wvn2KaZowFhM/RQg==",
+      "type": "package",
+      "path": "blake3/0.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blake3.0.5.1.nupkg.sha512",
+        "blake3.nuspec",
+        "lib/net5.0/Blake3.dll",
+        "lib/net5.0/Blake3.xml",
+        "lib/netstandard2.0/Blake3.dll",
+        "lib/netstandard2.0/Blake3.xml",
+        "logo.png",
+        "runtimes/linux-arm/native/libblake3_dotnet.so",
+        "runtimes/linux-arm64/native/libblake3_dotnet.so",
+        "runtimes/linux-x64/native/libblake3_dotnet.so",
+        "runtimes/osx-arm64/native/libblake3_dotnet.dylib",
+        "runtimes/osx-x64/native/libblake3_dotnet.dylib",
+        "runtimes/win-arm64/native/blake3_dotnet.dll",
+        "runtimes/win-x64/native/blake3_dotnet.dll",
+        "runtimes/win-x86/native/blake3_dotnet.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Blake3 >= 0.5.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jackson/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jackson/Desktop/Hash/TamanhoFixo/TamanhoFixo.csproj",
+      "projectName": "TamanhoFixo",
+      "projectPath": "/Users/jackson/Desktop/Hash/TamanhoFixo/TamanhoFixo.csproj",
+      "packagesPath": "/Users/jackson/.nuget/packages/",
+      "outputPath": "/Users/jackson/Desktop/Hash/TamanhoFixo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jackson/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Blake3": {
+            "target": "Package",
+            "version": "[0.5.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

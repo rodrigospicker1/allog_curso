@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4fOtUG8H9HRAboeEcCNjsz56p3TQQM6rg7CuTB5DbQlVCeHkeU3f8i0pmx9CVlB6zwQxVyxsg3vyxMv7bAm2Q==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Desktop/Hash/MD5/MD5.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/blake3/0.5.1/blake3.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
